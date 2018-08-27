@@ -6,7 +6,7 @@
 - [docker-compose](https://docs.docker.com/compose/) 版本 >= 1.10.0
 
 
-```
+
 ## 链信息
 
 ```
