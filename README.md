@@ -1,5 +1,5 @@
-# IPIPChain-Testnet接入指南
-欢迎来到 IPIPChain Testnet
+# IPIPChain 接入指南
+欢迎来到 IPIPChain 
 
 
 ## 构建本地环境
