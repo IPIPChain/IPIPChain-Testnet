@@ -26,12 +26,13 @@ git submodule update --init --recursive
 6.	Ubuntu 18.04 LTS
 7.	MacOS Darwin 10.12 and higher (MacOS 10.13.x recommended)
 
-系统要求
+**系统要求**
 
 •	需要8GB RAM
+
 •	需要20GB磁盘空间
 
-运行构建脚本
+**运行构建脚本**
 
 从该eos文件夹运行构建脚本。
 
