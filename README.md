@@ -1,7 +1,16 @@
 # IPIPChain-Testnet接入指南
 欢迎来到 IPIPChain Testnet
 
-依赖
+
+二、构建本地环境
+```
+git clone https://github.com/IPIPChain/eos.git --recursive
+```
+如果某个存储库没有--recursive标记clone，则可以通过在repo内运行以下命令来检索子模块：
+```
+git submodule update --init --recursive
+```
+##依赖
 - [Docker](https://docs.docker.com) Docker版本 >= 17.05
 - [docker-compose](https://docs.docker.com/compose/) 版本 >= 1.10.0
 
