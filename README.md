@@ -2,7 +2,7 @@
 欢迎来到 IPIPChain Testnet
 
 
-##构建本地环境
+## 构建本地环境
 ```
 git clone https://github.com/IPIPChain/eos.git --recursive
 ```
@@ -11,12 +11,12 @@ git clone https://github.com/IPIPChain/eos.git --recursive
 git submodule update --init --recursive
 ```
 
-##构建
+## 构建
 构建EOSIO的简单方法是使用自动构建脚本。
 构建将内容放置在eos/build文件夹中。
 可执行文件可以在文件eos/build/programs 夹中的子文件夹中找到。
 
-##自动构建脚本
+## 自动构建脚本
 有一个自动构建脚本，该脚本支持以下操作系统。
 1.	Amazon 2017.09 and higher
 2.	Centos 7
@@ -48,7 +48,7 @@ CD build
 sudo make install
 ```
 
-##Docker
+## Docker
 Docker上简单快速的EOSIO设置也是可用的。
 安装依赖关系
 •	需要Docker Docker 17.05或更高版本
@@ -75,7 +75,7 @@ $ curlhttp://47.92.0.237:8855/v1/chain/get_info
 ```
 
 
-##依赖
+## 依赖
 - [Docker](https://docs.docker.com) Docker版本 >= 17.05
 - [docker-compose](https://docs.docker.com/compose/) 版本 >= 1.10.0
 
