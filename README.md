@@ -1,4 +1,4 @@
-# IPIPChain-Testnet
+# IPIPChain-Testnet接入指南
 欢迎来到 IPIPChain Testnet
 
 依赖
