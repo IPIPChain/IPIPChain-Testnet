@@ -55,7 +55,7 @@ Docker上简单快速的EOSIO设置也是可用的。
 构建EOSIO映像
 
 ```
-$ git clone https://github.com/EOSIO/eos.git --recursive
+git clone https://github.com/IPIPChain/eos.git --recursive
 $ cd eos / Docker
 $ docker build -t eosio / eos
 ```
