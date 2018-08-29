@@ -5,7 +5,7 @@
 ## 构建本地环境
 
 ```
-git clone https://github.com/IPIPChain/eos.git --recursive
+git clone https://github.com/IPIPChain/ipipchain.git --recursive
 ```
 如果某个存储库没有--recursive标记clone，则可以通过在repo内运行以下命令来检索子模块：
 ```
